@@ -1,2 +1,2 @@
-# Coursera
-contains solutions for a course "Data analysis" and others on Stepik
+# Mini-Projects
+contains projects for a course "Data analysis" 
